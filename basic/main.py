@@ -26,7 +26,7 @@ class BasicBot(commands.Bot):
         # as the client re-connects. If you wish to do one-time things,
         # please use `setup_hook` below.
         assert self.user is not None
-        self.logger.info(f"Logged in as {self.user} (ID: {self.user.id})")
+        print(f"Logged in as {self.user} (ID: {self.user.id})")
 
     async def setup_hook(self) -> None:
         # Run all your initual setup here.
