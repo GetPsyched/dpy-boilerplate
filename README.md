@@ -4,6 +4,8 @@ Opinionated boilerplate configurations for bots written in Python using [discord
 
 This project contains 2 boilerplate repositories that you can use to kickstart your Discord bot project(s).
 
+**NOTE:** Although you can use this for your first project, I highly recommend understanding every bit of code that is written before relying on it, if not trying to code on your own first. These templates are meant for returning devs who want to spin up a bot quickly without setting up the necessities.
+
 ## Choosing between basic and advanced
 
 There are a bunch of distinctions between the 2 configs. The major ones are listed below!
