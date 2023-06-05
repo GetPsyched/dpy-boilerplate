@@ -1,3 +1,6 @@
 [submodule "advanced"]
 	path = advanced
 	url = git@github.com:GetPsyched/dpy-boilerplate-advanced.git
+[submodule "basic"]
+	path = basic
+	url = git@github.com:GetPsyched/dpy-boilerplate-basic.git
