@@ -1,0 +1,3 @@
+[submodule "advanced"]
+	path = advanced
+	url = git@github.com:GetPsyched/dpy-boilerplate-advanced.git
