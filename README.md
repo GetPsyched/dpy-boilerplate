@@ -51,6 +51,10 @@ The general setup for both the templates will look the same.
 <details>
 <summary>Installation for advanced</summary>
 
+Skip local setup and deploy as is while forking this repo:
+<br>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/vdTx0A?referralCode=5miY8S)
+
 1. Clone the repository. Since we want to truncate the git history, let's get the latest zip. Replace `<new-repo-name>` with any name you like.
     ```sh
     curl -L https://git.sr.ht/~getpsyched/dpy-boilerplate-advanced/archive/master.tar.gz | gunzip | tar xv
